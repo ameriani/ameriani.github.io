@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "name": "Alessandra Meriani",
+    "role": "Statistician · PhD Candidate",
+    "affiliations": "University of Bologna · Visiting researcher, Copenhagen Business School",
+    "email": "alessandra.meriani2@unibo.it",
+    "profileImage": "assets/profile.jpg",
+    "links": {
+      "cv": null,
+      "linkedin": "https://www.linkedin.com/in/alessandra-meriani/",
+      "unibo": "https://www.unibo.it/sitoweb/alessandra.meriani2",
+      "emailHref": "mailto:alessandra.meriani2@unibo.it"
+    }
+  },
+  "ui": {
+    "skipToContent": "Skip to content",
+    "langEn": "EN",
+    "langIt": "IT",
+    "themeLight": "Light mode",
+    "themeDark": "Dark mode",
+    "nav": {
+      "about": "About",
+      "research": "Research",
+      "news": "News",
+      "work": "Selected work",
+      "contact": "Contact"
+    },
+    "linkCv": "CV",
+    "linkLinkedin": "LinkedIn",
+    "linkEmail": "Email",
+    "linkUnibo": "UniBo",
+    "pdfLabel": "PDF"
+  },
+  "about": {
+    "title": "About",
+    "paragraphs": [
+      "I am a PhD candidate in Public Governance, Management and Policy at the University of Bologna, with a joint scholarship between the Department of Statistical Sciences and the Department of Agricultural and Food Sciences. My research focuses on food behaviours and the synergies between health and sustainability.",
+      "I am currently a visiting PhD researcher at Copenhagen Business School in the Consumer and Behavioural Insights Group. I work at the crossroads of statistics, semiotics, and sustainability: modelling food choices and designing data-informed strategies to reduce food waste and support healthier, more conscious decisions. Since 2023 I have also tutored courses in data mining and market analysis at UniBo."
+    ]
+  },
+  "research": {
+    "title": "Research interests",
+    "items": [
+      {
+        "title": "Food behaviours",
+        "body": "Food waste reduction, healthy and sustainable choices, and transitions in food systems."
+      },
+      {
+        "title": "Statistics and data",
+        "body": "Behavioural modelling, data mining, and data-informed insight for policy and practice."
+      },
+      {
+        "title": "Semiotics and culture",
+        "body": "Values, narratives, and science communication as lenses on how people relate to food."
+      }
+    ]
+  },
+  "news": {
+    "title": "News",
+    "items": [
+      {
+        "date": "Oct. 2026",
+        "text": "Started a visiting PhD researcher position at Copenhagen Business School (Consumer and Behavioural Insights Group)."
+      },
+      {
+        "date": "May 2025",
+        "text": "Attended the Una Europa PhD Summer School on Sustainable Food Systems and Protein Transition at the University of Helsinki."
+      },
+      {
+        "date": "Nov. 2024",
+        "text": "Started the PhD in Public Governance, Management and Policy at the University of Bologna."
+      },
+      {
+        "date": "Sep. 2023",
+        "text": "Graduated with an International Master in Statistics, Economics and Business (Business Analytics), 110 summa cum laude."
+      }
+    ]
+  },
+  "work": {
+    "title": "Selected work",
+    "items": [
+      {
+        "kind": "Master's thesis",
+        "title": "Empirical analysis of permaculture through advanced statistical and data mining techniques on web-retrieved data",
+        "meta": "University of Bologna · Supervisor: Ida D'Attoma · 2023",
+        "pdf": null
+      },
+      {
+        "kind": "PhD research",
+        "title": "Modelling food consumption behaviours and strategies for health–sustainability synergies",
+        "meta": "University of Bologna · Departments of Statistical Sciences and Agricultural and Food Sciences · in progress",
+        "pdf": null
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "alessandra.meriani2@unibo.it",
+    "department": "Department of Statistical Sciences \"Paolo Fortunati\", Via Belle Arti 41, Bologna"
+  }
+}

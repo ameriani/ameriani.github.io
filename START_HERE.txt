@@ -1,0 +1,29 @@
+Ciao piccola mordicchia :)
+
+Questo è quello che devi fare per testare il tutto.
+Spero ti piaccia.
+
+Con amore,
+Il tuo cupu informatico
+
+Alessandra Meriani — personal website
+=====================================
+
+1. Unzip this folder anywhere on your laptop.
+
+2. Open Terminal, go into the folder, and start a local server:
+
+   cd alessandra-portfolio
+   python3 -m http.server 8080
+
+3. Open this address in your browser:
+
+   http://localhost:8080/
+
+   (Do not double-click index.html — the language files will not load that way.)
+
+4. To change text later, edit:
+   - data/content-en.json  (English)
+   - data/content-it.json  (Italian)
+
+5. To publish on GitHub Pages, see README.md.

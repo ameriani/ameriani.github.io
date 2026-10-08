@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "name": "Alessandra Meriani",
+    "role": "Statistica · Dottoranda",
+    "affiliations": "Università di Bologna · Visiting researcher, Copenhagen Business School",
+    "email": "alessandra.meriani2@unibo.it",
+    "profileImage": "assets/profile.jpg",
+    "links": {
+      "cv": null,
+      "linkedin": "https://www.linkedin.com/in/alessandra-meriani/",
+      "unibo": "https://www.unibo.it/sitoweb/alessandra.meriani2",
+      "emailHref": "mailto:alessandra.meriani2@unibo.it"
+    }
+  },
+  "ui": {
+    "skipToContent": "Vai al contenuto",
+    "langEn": "EN",
+    "langIt": "IT",
+    "themeLight": "Modalità chiara",
+    "themeDark": "Modalità scura",
+    "nav": {
+      "about": "Chi sono",
+      "research": "Ricerca",
+      "news": "Novità",
+      "work": "Lavori selezionati",
+      "contact": "Contatti"
+    },
+    "linkCv": "CV",
+    "linkLinkedin": "LinkedIn",
+    "linkEmail": "Email",
+    "linkUnibo": "UniBo",
+    "pdfLabel": "PDF"
+  },
+  "about": {
+    "title": "Chi sono",
+    "paragraphs": [
+      "Sono dottoranda in Public Governance, Management and Policy all'Università di Bologna, con borsa congiunta tra il Dipartimento di Scienze Statistiche e il Dipartimento di Scienze e Tecnologie Agro-Alimentari. La mia ricerca riguarda i comportamenti alimentari e le sinergie tra salute e sostenibilità.",
+      "Attualmente sono visiting PhD researcher alla Copenhagen Business School, nel Consumer and Behavioural Insights Group. Lavoro all'incrocio tra statistica, semiotica e sostenibilità: modello le scelte alimentari e progetto strategie data-informed per ridurre lo spreco e promuovere decisioni più sane e consapevoli. Dal 2023 sono anche tutor didattica nei corsi di data mining e analisi di mercato all'UniBo."
+    ]
+  },
+  "research": {
+    "title": "Interessi di ricerca",
+    "items": [
+      {
+        "title": "Comportamenti alimentari",
+        "body": "Riduzione dello spreco alimentare, scelte sane e sostenibili, transizioni nei sistemi alimentari."
+      },
+      {
+        "title": "Statistica e dati",
+        "body": "Modellazione comportamentale, data mining e insight data-informed per policy e pratica."
+      },
+      {
+        "title": "Semiotica e cultura",
+        "body": "Valori, narrazioni e comunicazione della scienza come lenti sul rapporto delle persone con il cibo."
+      }
+    ]
+  },
+  "news": {
+    "title": "Novità",
+    "items": [
+      {
+        "date": "Ott. 2026",
+        "text": "Inizio del periodo da visiting PhD researcher alla Copenhagen Business School (Consumer and Behavioural Insights Group)."
+      },
+      {
+        "date": "Mag. 2025",
+        "text": "Partecipazione alla Una Europa PhD Summer School su Sustainable Food Systems and Protein Transition all'Università di Helsinki."
+      },
+      {
+        "date": "Nov. 2024",
+        "text": "Inizio del dottorato in Public Governance, Management and Policy all'Università di Bologna."
+      },
+      {
+        "date": "Set. 2023",
+        "text": "Laurea magistrale internazionale in Statistics, Economics and Business (Business Analytics), 110 e lode."
+      }
+    ]
+  },
+  "work": {
+    "title": "Lavori selezionati",
+    "items": [
+      {
+        "kind": "Tesi di laurea magistrale",
+        "title": "Analisi empirica della permacultura mediante tecniche statistiche avanzate e data mining su dati web",
+        "meta": "Università di Bologna · Relatrice: Ida D'Attoma · 2023",
+        "pdf": null
+      },
+      {
+        "kind": "Ricerca di dottorato",
+        "title": "Modellazione dei comportamenti di consumo alimentare e strategie per sinergie salute–sostenibilità",
+        "meta": "Università di Bologna · Dipartimenti di Scienze Statistiche e di Scienze e Tecnologie Agro-Alimentari · in corso",
+        "pdf": null
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contatti",
+    "email": "alessandra.meriani2@unibo.it",
+    "department": "Dipartimento di Scienze Statistiche \"Paolo Fortunati\", Via Belle Arti 41, Bologna"
+  }
+}
