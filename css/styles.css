@@ -2,14 +2,14 @@
 
 :root,
 html[data-theme='light'] {
-  --bg: #f5f1ea;
-  --bg-elevated: #efe6da;
+  --bg: #f4ebd5;
+  --bg-elevated: #eadebf;
   --text: #2c2620;
   --muted: #5c534a;
-  --accent: #9c4a3c;
-  --accent-2: #526b5c;
-  --border: #e2d8cc;
-  --focus: #9c4a3c;
+  --accent: #556039;
+  --accent-2: #4f6246;
+  --border: #d8c9a6;
+  --focus: #556039;
   color-scheme: light;
 }
 
@@ -253,6 +253,11 @@ a:hover {
   margin: 0;
   color: var(--muted);
   font-size: 0.92rem;
+}
+
+html[data-theme='light'] .interest h3,
+html[data-theme='light'] .work-card__title {
+  color: var(--accent);
 }
 
 .btn {
